@@ -1,9 +1,10 @@
-👋 Hi, I’m matrix
-👀 I’m interested in deep learning and web3, some major like tts, asr and smart contract...
-🌱 I’m currently learning deep learning, like text to speech and some tech for web3...
+- 👋 Hi, I’m matrix
+- 👀 I’m interested in deep learning and web3, some major like tts, asr and smart contract...
+- 🌱 I’m currently learning deep learning, like text to speech and some tech for web3...
 
-Work
+### Work
 2021.3 ~ now
+
 RD in ByteDance (TikTok), major in deep learning, and concentrating on tts algorithm and acoustic model training.
 
 
