@@ -1,5 +1,5 @@
-- 👋 Hi, I’m matrix
-- 👀 I’m interested in deep learning，TTS，MusicGeneration etc.
+- 👋 Hi, I’m matrix, (冯成立)
+- 👀 I’m interested in deep learning, TTS, MusicGeneration etc. Now, I am focus on music generation based on llm.
 
 ### Work
 2021.3 ~ 2023.10
