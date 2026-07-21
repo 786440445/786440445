@@ -1,6 +1,5 @@
 - 👋 Hi, I’m matrix
-- 👀 I’m interested in deep learning and web3, some major like tts, asr and smart contract...
-- 🌱 I’m currently learning deep learning, like text to speech and some tech for web3...
+- 👀 I’m interested in deep learning，TTS，MusicGeneration etc.
 
 ### Work
 2021.3 ~ 2023.10
