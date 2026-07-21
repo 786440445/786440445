@@ -8,7 +8,7 @@ RD in ByteDance (TikTok), major in deep learning, and concentrating on tts algor
 
 2024.1 ~ now
 
-RD in StepFun (阶跃星辰), major in tts algorithm and speech intelligence.
+RD in StepFun (阶跃星辰), major in tts algorithm and speech intelligence and music generation some models like StepAudio1, StepAudio2, StepAudio2.5 and StepAudio3 preview. 
 
 
 <!---
